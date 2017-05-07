@@ -1,6 +1,8 @@
 sockethub-platform-feeds
 ======================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sockethub/sockethub-platform-feeds.svg)](https://greenkeeper.io/)
+
 A sockethub platform module implementing Atom/RSS feed functionality.
 
 
